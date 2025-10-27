@@ -7,6 +7,9 @@ Este repositorio contiene la documentación y analisis del funcionamiento de dis
 3. Placa Voltaje Diferencial a Single-Ended
 4. Current Transducers CORFO v2.0
 5. Current Transducers Fondef TPC
+6. Current transducers v3.1
+7. Current transducers v4.1
+81.Voltage transducers v3.1
 
 ## Tarjetas de Control
 1. Power Controller Module
@@ -15,9 +18,13 @@ Este repositorio contiene la documentación y analisis del funcionamiento de dis
 
 ## Conversores
 1. H-Bridge Module v1.0
-2. T-Type Module v1.0
-3. DC-link Module v1.0
-4. GD (antiguo y nuevo)
+2. H-Bridge SiC v2.1
+3. T-Type Module v1.0
+4. DC-link Module v1.0
+5. Isolated Gate Driver Module V1.0
+6. SiC Gate Driver Module V2.0
+7. Power Supply Aux RTS Usach v1.1
 
 ## Ultrazohm
-1. Tarjeta Ultrazohm
+1.Relay Control v1.1 - Francisco Rubio
+2. Relay Control v1.1 - Esteban Duran
