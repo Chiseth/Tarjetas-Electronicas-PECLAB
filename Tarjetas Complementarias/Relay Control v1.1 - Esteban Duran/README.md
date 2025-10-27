@@ -1,0 +1,2 @@
+# Relay Control v1.1 - v1.1 - Esteban Duran
+Módulo de control de relés diseñado para accionar cargas eléctricas mediante señales de fibra optica. Su función principal es permitir la conmutación segura de dispositivos de potencia de 12[V], manteniendo aislamiento galvánico entre la etapa de control y la de potencia.
